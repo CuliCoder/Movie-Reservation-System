@@ -1,0 +1,8 @@
+@"
+bin/
+obj/
+.git/
+.vs/
+*.user
+**/appsettings.Development.json
+"@ | Out-File -Encoding utf8 .dockerignore
