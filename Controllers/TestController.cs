@@ -9,7 +9,7 @@ namespace Movie_Reservation_System.Controllers
         [HttpGet]
         public string Get()
         {
-            return "Hello World";
+            return "Hello Word";
         }
     }
 }
